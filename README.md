@@ -1,4 +1,4 @@
-![logo](https://github.com/RuchiAgrawal9186/RuchiAgrawal9186/blob/main/Ruchi%20Agrawal%20Full%20stack%20web%20developer.png)
+![MasterHead](https://github.com/RuchiAgrawal9186/RuchiAgrawal9186/blob/main/Ruchi%20Agrawal%20Full%20stack%20web%20developer.png)
 <h1 align="center">Hi 👋, I'm Ruchi Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
