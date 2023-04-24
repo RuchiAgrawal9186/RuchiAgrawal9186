@@ -11,7 +11,9 @@ From Gujarat, India. I am a well-focused full-stack developer👨‍💻. I am p
 
 - 📫 How to reach me **ruchiagrawal9186@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xDygTcnSEOTMcLW0Q_DY8_iVT_U6V9TG/view?usp=sharing](https://drive.google.com/file/d/1xDygTcnSEOTMcLW0Q_DY8_iVT_U6V9TG/view?usp=sharing)
+-  👨‍💻 My portfolio [https://ruchiagrawal9186.github.io/](https://ruchiagrawal9186.github.io/)
+
+- 📄 My Resume [https://drive.google.com/file/d/1xDygTcnSEOTMcLW0Q_DY8_iVT_U6V9TG/view?usp=sharing](https://drive.google.com/file/d/1xDygTcnSEOTMcLW0Q_DY8_iVT_U6V9TG/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchi-agrawal-6a2585214)
